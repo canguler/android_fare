@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/can/BluetoothChat/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/home/can/BluetoothChat/Application/build/intermediates/pre-dexed/debug/classes-9196c223a05aaf30a039c0543dbe65737a84a6e9.jar" />
+    </item>
+    <item
+        jar="/home/can/BluetoothChat/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9742ced04aafd9ac97dd2c66c1aa0e32d2ae7e54">
+        <dex dex="/home/can/BluetoothChat/Application/build/intermediates/pre-dexed/debug/classes-64690d9851f631364e8f5399cd44f16b45f1fe7a.jar" />
+    </item>
+    <item
+        jar="/home/can/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/home/can/BluetoothChat/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-a27007dbc36f14e25ae46c3425bc28cd5ca5b96d.jar" />
+    </item>
+    <item
+        jar="/home/can/BluetoothChat/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/home/can/BluetoothChat/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-76fd94e4eb980d846c0a0a22732c24c4e98e1ff3.jar" />
+    </item>
+    <item
+        jar="/home/can/BluetoothChat/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/home/can/BluetoothChat/Application/build/intermediates/pre-dexed/debug/classes-3f4df032a75c6c5f4b9da23fe863c8caacf958de.jar" />
+    </item>
+
+</items>
