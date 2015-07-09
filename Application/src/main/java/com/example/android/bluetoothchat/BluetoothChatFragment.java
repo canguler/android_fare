@@ -474,6 +474,9 @@ public class BluetoothChatFragment extends Fragment implements SensorEventListen
                 ensureDiscoverable();
                 return true;
             }
+            case R.id.change_mode: {
+                sendMessage("C 0 0");
+            }
         }
         return false;
     }
